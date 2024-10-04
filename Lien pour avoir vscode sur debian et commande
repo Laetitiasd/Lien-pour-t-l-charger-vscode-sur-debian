@@ -1,0 +1,8 @@
+https://update.code.visualstudio.com/1.83.1/linux-deb-x64/stable
+
+
+//sur le dossier Téléchargement sur le terminal
+apt install ./code_1.83.1-1696982868_amd64.deb 
+
+// puis mettre la commande 
+code
